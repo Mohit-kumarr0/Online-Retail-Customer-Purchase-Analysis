@@ -1,0 +1,4 @@
+Order_Band,Order_Count,Total_Revenue,Average_Order_Value,Percentage_of_Orders
+Low,250,3178667.09,12714.66836,25.0
+Medium,500,32854599.6,65709.1992,50.0
+High,250,41377350.43,165509.40172,25.0
